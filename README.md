@@ -49,6 +49,11 @@ To change the method used for detecting the failure use the **setmodels.py**.
 
 There are four availiable technques: TranAD, Pair Detection, Xgboost Pair Detection and grand Inductive. 
 
+## Illustration of Analytical Results:
+
+![Alt Text](/images/vehicleCorrelationResults.png)
+
+
 ## Others
 
 To this point, the system is build to support implementation of different techniqeus that work for streaming simulation data (i.e. data arrived one by one). The methods to work should respect the existing interface (look at existing solutions and docs.md).

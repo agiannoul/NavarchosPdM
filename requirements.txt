@@ -1,0 +1,14 @@
+dgl==2.0.0
+dtaidistance==2.3.10
+grand==0.2.0
+matplotlib==3.7.2
+numpy==1.23.5
+pandas==1.5.2
+plotly==5.18.0
+prts==1.0.0.3
+scikit_learn==1.2.0
+scipy==1.11.4
+torch==2.1.2
+tqdm==4.66.1
+tslearn==0.5.2
+xgboost==1.7.2

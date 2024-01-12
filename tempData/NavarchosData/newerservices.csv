@@ -1,0 +1,222 @@
+,vehicle_id,dt,action_type,desc
+11,2,2023-02-01 17:34:41,R,EGR valve repair
+23,4,2023-01-16 17:34:41,S,Standard service
+24,4,2023-04-24 17:34:41,S,Standard service
+25,4,2023-08-03 17:34:41,R,Fuel injector replacement
+26,4,2023-08-14 17:34:41,S,Standard service
+27,4,2023-09-29 17:34:41,R,Accident repair
+43,7,2023-02-07 17:34:41,S,Oil change
+44,7,2023-06-13 17:34:41,S,Standard service
+45,7,2023-09-20 17:34:41,S,Standard service
+55,9,2023-05-15 17:34:41,S,Oil change
+56,9,2023-08-30 17:34:41,S,Standard service
+60,10,2023-01-19 17:34:41,S,Standard service
+62,11,2023-06-06 17:34:41,S,Standard service
+63,11,2023-08-14 17:34:41,R,Radiator hose replacement
+64,11,2024-01-01 17:34:41,R,Accident repair (cosmetic)
+66,12,2023-01-02 17:34:41,S,Standard service
+70,13,2023-01-11 17:34:41,S,Standard service
+71,13,2023-06-28 17:34:41,S,Standard service
+72,13,2023-08-30 17:34:41,S,Oil change
+91,16,2023-01-23 17:34:41,S,Oil change
+98,17,2023-01-17 17:34:41,S,Standard service
+99,17,2023-03-10 17:34:41,R,A/C service
+100,17,2023-04-24 17:34:41,R,Water pump replacement
+101,17,2023-04-24 17:34:41,R,Timing belt replacement
+102,17,2023-04-24 17:34:41,R,EGR valve repair
+103,17,2023-05-18 17:34:41,S,Oil change
+104,17,2023-06-27 17:34:41,S,Standard service
+105,17,2023-08-14 17:34:41,S,Oil change
+106,17,2023-10-04 17:34:41,S,Standard service
+108,18,2023-01-12 17:34:41,R,Accident repair (cosmetic)
+109,18,2023-04-19 17:34:41,S,Standard service
+114,20,2023-03-21 17:34:41,S,Standard service
+115,20,2023-04-11 17:34:41,S,Oil change
+116,20,2023-08-02 17:34:41,S,Standard service
+117,20,2023-08-08 17:34:41,S,Battery change
+120,21,2023-01-04 17:34:41,R,Timing belt replacement
+121,21,2023-01-04 17:34:41,R,Water pump replacement
+124,21,2023-03-31 17:34:41,S,Standard service
+125,21,2023-07-21 17:34:41,S,Standard service
+131,23,2023-01-26 17:34:41,S,Standard service
+132,23,2023-07-07 17:34:41,S,Standard service
+139,24,2023-03-08 17:34:41,S,Oil change
+140,24,2023-03-17 17:34:41,S,Refill of DPF fluid
+142,24,2023-05-02 17:34:41,S,Standard service
+147,25,2023-02-15 17:34:41,S,Standard service
+148,25,2023-05-18 17:34:41,S,Standard service
+149,25,2023-10-05 17:34:41,S,Standard service
+154,27,2023-02-10 17:34:41,S,Standard service
+155,27,2023-03-09 17:34:41,R,Replacement of a/c compressor
+156,27,2023-06-09 17:34:41,S,Oil change
+160,28,2023-01-26 17:34:41,S,Oil change
+161,29,2023-02-20 17:34:41,S,Standard service
+162,29,2023-02-20 17:34:41,R,Timing belt replacement
+163,29,2023-02-20 17:34:41,R,Water pump replacement
+165,29,2023-08-19 17:34:41,S,Oil change
+166,29,2023-10-25 17:34:41,S,Standard service
+170,30,2023-01-17 17:34:41,R,Accident repair (cosmetic)
+171,30,2023-01-04 17:34:41,S,Standard service
+172,30,2023-02-22 17:34:41,R,Accident repair (cosmetic)
+173,30,2023-05-01 17:34:41,S,Standard service
+174,30,2023-08-16 17:34:41,S,Standard service
+181,31,2023-03-27 17:34:41,S,Oil change
+182,31,2023-07-31 17:34:41,S,Standard service
+186,32,2023-03-06 17:34:41,S,Oil change
+187,32,2023-04-14 17:34:41,S,Standard service
+193,34,2023-02-15 17:34:41,R,Replacement of rear ball bearings
+194,34,2023-03-24 17:34:41,R,Replacement of a/c compressor
+223,8,2023-09-11 17:34:41,S,Oil Change
+224,8,2023-10-07 17:34:41,R,Battery change
+225,8,2023-11-01 17:34:41,R,Brake fluid
+226,8,2023-11-01 17:34:41,R,Anti-torque link
+227,8,2023-11-01 17:34:41,R,Brake pad
+228,8,2023-11-01 17:34:41,R,Ad blue
+231,14,2023-06-15 17:34:41,R,Front brakes discs
+232,14,2023-06-15 17:34:41,R,Front brake pads
+233,14,2023-07-21 17:34:41,R,Clutch replacement
+234,15,2023-03-09 17:34:41,S,Τire weighing
+235,15,2023-03-23 17:34:41,R,Αντιστάσεις σωπών
+236,15,2023-06-01 17:34:41,R,General repairs
+237,15,2023-06-26 17:34:41,R,Brake disc
+238,15,2023-06-26 17:34:41,R,brakes pads replacement
+241,19,2023-05-03 17:34:41,S,Oil change
+242,19,2023-11-29 17:34:41,R,Brakes pad replacement
+243,22,2023-04-19 17:34:41,R,Tyres replacement
+244,22,2023-06-08 17:34:41,R,Brake discs
+245,22,2023-06-08 17:34:41,R,brake pads replacement
+269,37,2023-11-06 17:34:41,R,Tyre repair
+270,2,2023-06-09 17:34:41,S,Ad blue
+272,2,2023-02-01 17:34:41,R,Repair EGR
+273,2,2023-03-27 17:34:41,R,Accident repair
+274,2,2023-11-27 17:34:41,S,Oil change
+304,4,2023-01-16 17:34:41,S,Oil change
+305,4,2023-04-24 17:34:41,R,Brakes pads replacement
+306,4,2023-08-03 17:34:41,R,Injection repair
+307,4,2023-08-14 17:34:41,R,Rod-lwr replacement
+308,4,2023-09-29 17:34:41,R,Accident repair
+309,4,2023-10-16 17:34:41,S,Oil change
+310,4,2023-11-29 17:34:41,S,Oil change
+311,4,2023-12-12 17:34:41,R,Clutch repair
+340,5,2023-04-25 17:34:41,S,Oil change
+341,5,2023-08-02 17:34:41,R,Brakes discs
+342,5,2023-08-02 17:34:41,R,brake pads
+343,5,2023-11-15 17:34:41,S,Standard service
+351,7,2023-02-07 17:34:41,S,Oil change
+352,7,2023-05-29 17:34:41,R,Tyre replacement
+353,7,2023-05-13 17:34:41,R,Brake discs
+354,7,2023-05-13 17:34:41,R,brake pads replacement
+355,7,2023-09-20 17:34:41,S,Oil Change
+356,7,2023-12-11 17:34:41,R,Battery change
+357,7,2024-01-10 17:34:41,R,Spark replacement
+365,9,2023-04-27 17:34:41,R,Tyre replacement
+366,9,2023-05-15 17:34:41,S,Oil change
+367,9,2023-08-30 17:34:41,S,Oil change
+368,10,2023-01-19 17:34:41,S,Oil change
+369,10,2023-12-08 17:34:41,R,Brake discs
+370,10,2023-12-08 17:34:41,R,brake pads replacement
+372,11,2023-03-27 17:34:41,R,Tyre replacement
+373,11,2023-06-06 17:34:41,R,Brake discs
+374,11,2023-06-06 17:34:41,R,brake pads replacement
+375,11,2023-08-14 17:34:41,R,Flex hose and thermostat replacement
+376,11,2023-08-21 17:34:41,R,Tyre replacement
+377,11,2023-11-09 17:34:41,R,Accident repair
+378,11,2023-12-12 17:34:41,S,Oil change
+379,11,2024-01-10 17:34:41,R,Battery change
+380,12,2023-01-02 17:34:41,S,Oil change
+391,13,2023-01-11 17:34:41,R,EGR remove
+392,13,2023-06-28 17:34:41,R,Tyre replacement
+393,13,2023-06-28 17:34:41,S,oil change
+394,13,2023-08-30 17:34:41,S,Oil change
+395,13,2024-01-09 17:34:41,R,Brake discs
+396,13,2024-01-09 17:34:41,R,brake pads replacement
+437,16,2023-01-23 17:34:41,R,Radiator repair
+438,16,2023-04-19 17:34:41,R,Update engine
+439,16,2023-11-29 17:34:41,R,Replace door lock
+458,17,2023-01-17 17:34:41,R,Track control arm replacement
+459,17,2023-03-10 17:34:41,S,Standard service
+460,17,2023-04-06 17:34:41,R,A/C repair
+461,17,2023-04-24 17:34:41,R,Timing belt
+462,17,2023-04-24 17:34:41,R,EGR valve replacement
+463,17,2023-06-27 17:34:41,R,Brakes pads replacement
+464,17,2023-08-09 17:34:41,R,Tyre replacement
+465,17,2023-10-04 17:34:41,S,Standard service
+466,17,2023-12-05 17:34:41,S,Oil change
+468,18,2023-01-12 17:34:41,R,Accident repair
+469,18,2023-04-19 17:34:41,R,Engine base replacement
+470,18,2023-09-14 17:34:41,R,Timing belt
+471,18,2023-09-14 17:34:41,R,brakes pads replacement
+486,20,2023-03-21 17:34:41,R,Brakes discs
+487,20,2023-03-21 17:34:41,R,brake pads replacement
+488,20,2023-04-11 17:34:41,S,Oil change
+489,20,2023-08-02 17:34:41,S,Standard service
+490,20,2023-08-08 17:34:41,R,Battery change
+491,20,2023-10-25 17:34:41,R,Tyre replacement
+492,20,2023-10-26 17:34:41,S,Oil change
+493,20,2024-01-12 17:34:41,R,Timing belt replacement
+505,21,2023-01-04 17:34:41,R,Timing belt
+506,21,2023-03-31 17:34:41,R,Brake discs
+507,21,2023-03-31 17:34:41,R,brake pads replacement
+508,21,2023-07-21 17:34:41,S,Standard service
+509,21,2024-01-05 17:34:41,R,Catalytic converter replacement
+528,23,2023-01-26 17:34:41,S,Standard service
+529,23,2023-07-07 17:34:41,S,Standard service
+530,23,2023-07-12 17:34:41,R,Tyre replacement
+531,23,2023-10-12 17:34:41,R,Battery change
+532,23,2023-10-12 17:34:41,R,ECU engine replacement
+533,23,2023-12-21 17:34:41,R,Brake discs
+534,23,2023-12-21 17:34:41,R,brake pads replacement
+551,24,2023-03-08 17:34:41,S,Oil change
+552,24,2023-03-17 17:34:41,S,Ad blue
+553,24,2023-05-02 17:34:41,S,Standard service
+554,24,2023-08-29 17:34:41,S,Oil change
+555,24,2023-11-10 17:34:41,S,Oil change
+556,24,2023-11-10 17:34:41,S,Ad blue
+562,25,2023-02-15 17:34:41,S,Standard service
+563,25,2023-05-01 17:34:41,R,Accident repair
+564,25,2023-05-18 17:34:41,R,Ad blue remove
+565,25,2023-05-18 17:34:41,S,service
+566,25,2023-10-05 17:34:41,S,Standard service
+567,25,2023-12-01 17:34:41,R,Tyre replacement
+569,26,2023-04-04 17:34:41,R,DPF cleaner
+570,26,2023-04-28 17:34:41,R,Ad blue off
+571,26,2024-01-10 17:34:41,S,Standard service
+575,27,2023-02-10 17:34:41,S,Standard service
+576,27,2023-03-09 17:34:41,R,A/C compressor replacement
+577,27,2023-06-09 17:34:41,S,Oil change
+584,28,2023-01-26 17:34:41,S,Oil change
+585,28,2023-04-19 17:34:41,R,A/C repair
+586,28,2023-05-04 17:34:41,R,Absorber replacement
+587,28,2023-07-05 17:34:41,S,Oil change
+588,28,2023-09-19 17:34:41,S,Oil change
+589,28,2023-11-01 17:34:41,R,Tyre replacement
+590,28,2023-12-07 17:34:41,S,Standard service
+592,29,2023-02-22 17:34:41,R,Timing belt replacement
+593,29,2023-05-29 17:34:41,R,Battery change
+594,29,2023-08-19 17:34:41,S,Oil change
+595,29,2023-10-25 17:34:41,S,Standard service
+604,30,2023-01-04 17:34:41,S,Standard service
+605,30,2023-01-17 17:34:41,R,Accident repair
+606,30,2023-02-22 17:34:41,R,Accident repair
+607,30,2023-05-01 17:34:41,R,Thermostat replacement
+608,30,2023-06-28 17:34:41,R,Wheel weighing
+609,30,2023-08-16 17:34:41,R,Radiator repair
+610,30,2023-12-05 17:34:41,S,Standard service
+611,30,2024-01-09 17:34:41,R,Gear grankshaft repair
+627,31,2023-03-27 17:34:41,S,Oil change
+628,31,2023-06-22 17:34:41,R,Accident repair
+629,31,2023-07-31 17:34:41,R,Brake discs
+630,31,2023-07-31 17:34:41,R,brake pads replacement
+631,31,2023-10-17 17:34:41,S,Oil change
+650,32,2023-03-06 17:34:41,S,Oil change
+651,32,2023-04-14 17:34:41,S,Standard service
+652,32,2023-04-17 17:34:41,R,Tyre replacement
+653,32,2023-10-12 17:34:41,S,Oil change
+654,32,2024-01-26 17:34:41,R,Brake discs
+655,32,2024-01-26 17:34:41,R,brake pads replacement
+665,33,2023-07-03 17:34:41,S,Oil change
+666,33,2023-11-14 17:34:41,S,Standard service
+667,34,2023-02-15 17:34:41,R,Αντικατάσταση Ρουλεμάν
+668,34,2023-03-24 17:34:41,R,A/C repair
+669,34,2023-12-15 17:34:41,R,Battery change
+670,34,2024-01-15 17:34:41,S,Standard service

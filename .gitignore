@@ -1,0 +1,18 @@
+test/
+*.pkl
+checkpoints/
+*.pyc
+*.resbig
+# PyCharm files and directories
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled Python files
+__pycache__/
+*.pyo
+
+# Logs and other generated files
+*.log
+*.log.*

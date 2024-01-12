@@ -10,6 +10,23 @@ For a small fraction of vehicles there available the produced DTC codes in the f
 
 ## Running the code
 
+Using anaconda:
+```
+conda create --name navpdm python=3.8
+conda activate navpdm
+conda install --file requirements.txt
+python3 main.py
+```
+
+Non-conda enviroment:
+```
+# On Windows: .\navpdm\Scripts\activate
+# On macOS/Linux: source navpdm/bin/activate
+python -m venv navpdm
+pip install -r requirements.txt
+```
+
+
 Along with the proposed framework the code provide a system to simulate the data in operation of the fleet, as it would be in real-life. 
 The documentation regarfing fundumental methods and concepts regarding the system can be seen in docs.md
 

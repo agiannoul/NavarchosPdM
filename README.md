@@ -1,4 +1,4 @@
-# Implementation of "" paper.
+# Implementation: Exploring unsupervised anomaly detection for vehicle predictive maintenance with partial information.
 
 ## Data
 

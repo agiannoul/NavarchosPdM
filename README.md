@@ -1,5 +1,30 @@
 # Implementation: Exploring unsupervised anomaly detection for vehicle predictive maintenance with partial information.
 
+## Reference:
+```
+@inproceedings{GiannoulidisEDBT2024,
+  author       = {Apostolos Giannoulidis and
+                  Anastasios Gounaris and
+                  Ioannis Constantinou},
+  editor       = {Letizia Tanca and
+                  Qiong Luo and
+                  Giuseppe Polese and
+                  Loredana Caruccio and
+                  Xavier Oriol and
+                  Donatella Firmani},
+  title        = {Exploring unsupervised anomaly detection for vehicle predictive maintenance
+                  with partial information},
+  booktitle    = {Proceedings 27th International Conference on Extending Database Technology,
+                  {EDBT} 2024, Paestum, Italy, March 25 - March 28},
+  pages        = {753--761},
+  publisher    = {OpenProceedings.org},
+  year         = {2024},
+  url          = {https://doi.org/10.48786/edbt.2024.65},
+  doi          = {10.48786/EDBT.2024.65},
+  timestamp    = {Fri, 22 Mar 2024 11:12:28 +0100},
+}
+```
+
 ## Data
 
 Folder temp data contain the raw vehicular under "raw" folder. Data are splitted to different files, each one associated with a unique identifier (correspoding to different vehicles).

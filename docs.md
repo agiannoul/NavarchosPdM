@@ -25,9 +25,9 @@ This is a simple class to represent a prediction, with the following fields:
 - **ensemble_details**: In case this prediction is from an ensemble technique, metadata text.
 
 ## EventPoint (utils.structure)
-All events are in the form of `PredictionPoints`.
+All events are in the form of `EventPoint`.
 
-This is a simple class to represent a prediction, with the following fields:
+This is a simple class to represent an event, with the following fields:
 
 - **code**: unique code of an event.
 - **timestamp**: timestamp of the prediction.

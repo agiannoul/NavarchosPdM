@@ -30,8 +30,8 @@ All events are in the form of `EventPoint`.
 This is a simple class to represent an event, with the following fields:
 
 - **code**: unique code of an event.
-- **timestamp**: timestamp of the prediction.
-- **source**: The source that the prediction concerns.
+- **timestamp**: timestamp of the event.
+- **source**: The source that the event concerns.
 - **details**: Text, description, or any details.
 - **type**: Metadata for the type of event (isolated, configuration, AD) used in context generation.
 
